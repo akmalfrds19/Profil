@@ -1,0 +1,17 @@
+.jumbotron img {
+  width: 200px;
+}
+
+body {
+  height: 2000px;
+}
+
+.jumbotron {
+  background-image: url(bg.png);
+  padding: 5rem 5rem;
+}
+
+#project {
+  background-image: url(bg.png);
+  padding: 1rem 1rem;
+}
